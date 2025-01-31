@@ -1,0 +1,3 @@
+INSERT INTO "transaksi_peminjaman" ("id_peminjaman", "tgl_peminjaman", "id_anggota", "id_staf", "id_buku", "tgl_kembali", "tgl_kembali_realisasi") VALUES ('PJ0001', '2023-10-15', '001', 'St001', 'B01', '2023-10-17', '2023-10-18');
+INSERT INTO "transaksi_peminjaman" ("id_peminjaman", "tgl_peminjaman", "id_anggota", "id_staf", "id_buku", "tgl_kembali", "tgl_kembali_realisasi") VALUES ('PJ0002', '2023-10-16', '001', 'St001', 'B02', '2023-10-18', '2023-10-19');
+INSERT INTO "transaksi_peminjaman" ("id_peminjaman", "tgl_peminjaman", "id_anggota", "id_staf", "id_buku", "tgl_kembali", "tgl_kembali_realisasi") VALUES ('PJ0002', '2023-10-16', '001', 'St001', 'B01', '2023-10-18', '2023-10-19');
